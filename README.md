@@ -1,5 +1,5 @@
 # News-App-NYT
-Made News App with New York Times open source API
+> News App with New York Times open source API
 
 NYTimes have provided open source free APIs for developer we it from the website - https://developer.nytimes.com/
 
