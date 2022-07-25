@@ -3,7 +3,7 @@ Made News App with New York Times open source API
 
 NYTimes have provided open source free APIs for developer we it from the website - https://developer.nytimes.com/
 
-In this project LogIn page, Sign up page and News Articles page are shown.
+In this project App icon, Launch screen, LogIn page, Sign up page and News Articles page are shown.
 
 In the LogIn page validations for Username and Password are set.
 
