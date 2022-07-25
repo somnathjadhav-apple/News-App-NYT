@@ -11,6 +11,13 @@ In News Articles page, News Articles from nytimes is displayed.
 
 And also search bar is Implemented to search relevant search.
 
+### For SignIn page the validations are:
+
+- **Username** is  *username@emailProvider.com*   Ex: somnath@gmail.com
+- For **Password** : 1 Capital letter, 1 number and password should be of 8 letters. *Ex: Password1*
+
+## Screens are as below: 
+
 ### Launch Screen:
 
 <img src="https://user-images.githubusercontent.com/88436267/180456729-cc3e4f11-d88a-4869-ba1c-79a3bf817eb0.png" width="200" height="400">
